@@ -63,10 +63,11 @@ So far, here's a comprehensive list of everything that is working
 - [ ] Screenshot taking
 
 ### API
-- [x] v1/posts (Posting to a community)
-- [x] v1/posts/xx/empathies (Creating a "Yeah!")
-- [x] v1/communities (Grabbing sub communities)
-- [ ] v1/notifications (Notifications for games to pull from)
-- [ ] v1/people (Friends that appear on your Wii U menu in orange pants)
-- [ ] v1/topics (Wara Wara Plaza)
-- [ ] v1/friend_messages (In-game messaging)
+- [x] POST v1/posts (Posting to a community)
+- [x] POST v1/posts/xx/empathies (Creating a "Yeah!")
+- [x] GET v1/communities (Grabbing sub communities)
+- [ ] GET v1/notifications (Notifications for games to pull from)
+- [ ] GET v1/people (Friends that appear on your Wii U menu in orange pants)
+- [ ] POST v1/people (Creating a new user)
+- [ ] GET v1/topics (Wara Wara Plaza)
+- [ ] POST v1/friend_messages (In-game messaging)
