@@ -19,7 +19,7 @@ Some games use what is called app data. App Data is a string coded into most com
 ### What about Pretendo?
 Pretendo is a seperate revival service that revives Miiverse, as well as most other online services. Aquamarine only revives Miiverse.
 
-## Compleation
+## Completion
 
 So far, here's a comprehensive list of everything that is working
 
