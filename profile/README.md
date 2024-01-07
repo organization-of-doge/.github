@@ -39,7 +39,7 @@ So far, here's a comprehensive list of everything that is working
 - [ ] My Menu
 - [ ] Settings
 - [ ] Blocking and reporting
-- [ ] Community Type Viewing (Announcement, Sub Community, Main Community, Normal Community)
+- [x] Community Type Viewing (Announcement, Sub Community, Main Community, Normal Community)
 - [ ] Posting via Applet
 - [ ] Screenshot taking
 
