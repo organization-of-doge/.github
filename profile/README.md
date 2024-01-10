@@ -1,6 +1,6 @@
 # Aquamarine
 
-## QNA
+## Q&A
 
 ### What is Aquamarine?
 Aquamarine is a Miiverse Revival project aiming to capture the essence of Miiverse (UI Design, General Charm, etc), while giving it newer and modern features.
@@ -17,7 +17,7 @@ https://discord.gg/s5FEBBkwAn
 Some games use what is called app data. App Data is a string coded into most communities that allow games to communicate with them. Most of these strings have not been found by data-miners or reverse engineerers. If/when those strings are found, we'll be sure to implement them into our API. Another factor that could affect game's is game patching. Some game's had Miiverse completely patched out of them in an update.
 
 ### What about Pretendo?
-Pretendo is a seperate revival service that revives Miiverse, as well as most other online services. Aquamarine only revives Miiverse.
+Pretendo is a seperate revival service that revives Miiverse, as well as most other online services for the Wii U and 3DS. Aquamarine only revives Miiverse.
 
 ## Completion
 
