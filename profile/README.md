@@ -6,7 +6,7 @@
 Aquamarine is a Miiverse Revival project aiming to capture the essence of Miiverse (UI Design, General Charm, etc), while giving it newer and modern features.
 
 ### How do I install Aquamarine?
-Currently Aquamarine is in development, so no builds are avaliable to the general public yet.
+Currently Aquamarine is in development, so no builds are avaliable to the general public yet. Periodically, we may have open betas, that allow people to come in and test certain functions.
 
 ### How can I follow Aquamarine's development?
 You can join the discord and get development updates.
