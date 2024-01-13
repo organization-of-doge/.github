@@ -66,6 +66,7 @@ So far, here's a comprehensive list of everything that is working
 - [x] POST v1/posts (Posting to a community)
 - [x] POST v1/posts/xx/empathies (Creating a "Yeah!")
 - [x] GET v1/communities (Grabbing sub communities)
+- [ ] POST v1/communities/favorite (Favoriting communities)
 - [ ] GET v1/notifications (Notifications for games to pull from)
 - [ ] GET v1/people (Friends that appear on your Wii U menu in orange pants)
 - [ ] POST v1/people (Creating a new user)
