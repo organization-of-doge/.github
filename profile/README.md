@@ -13,8 +13,8 @@ You can join the discord and get development updates.
 
 https://discord.gg/s5FEBBkwAn
 
-### How come the game, xxxxx doesn't work like intended!
-Some games use what is called app data. App Data is a string coded into most communities that allow games to communicate with them. Most of these strings have not been found by data-miners or reverse engineerers. If/when those strings are found, we'll be sure to implement them into our API. Another factor that could affect game's is game patching. Some game's had Miiverse completely patched out of them in an update.
+### How come the game/app *insert name here* doesn't work as intended!
+Some applications use something called app data. App Data is a string coded into most communities that allow games to communicate with them. Most of these strings have not been found by data-miners or reverse engineerers. If/when those strings are found, we'll be sure to implement them into our API. Another factor that could affect games is patches, as some games had Miiverse completely patched out of them in an update.
 
 ### What about Pretendo?
 Pretendo is a seperate revival service that revives Miiverse, as well as most other online services for the Wii U and 3DS. Aquamarine only revives Miiverse.
